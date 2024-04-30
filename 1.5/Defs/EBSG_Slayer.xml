@@ -24,9 +24,6 @@
         <statFactors>
             <EBSG_OutgoingDamageFactor>0.4</EBSG_OutgoingDamageFactor>
         </statFactors>
-        <exclusionTags>
-            <li>EBSG_AbysmalKilling</li> <!--Used to avoid some weird results caused by players taking all abysmal genes at the same time-->
-        </exclusionTags>
     </GeneDef>
 
     <GeneDef ParentName="EBSG_SlayerBase">
@@ -149,7 +146,7 @@
     <GeneDef ParentName="EBSG_SlayerBase">
         <defName>EBSG_SuperGoodSlayer</defName>
         <label>super slayer</label>
-        <description>Carriers of this gene instinctively know every weak point of any enemy they face and the ability to predict where the enemy will move next with a very low accuracy rate, making it significantly easier to slay their enemies.\n\nAlite's note: Predictive ability doesn't really exist or do anything, it's just some fluff text that I use to be able to claim this gene makes complete sense.</description>
+        <description>Carriers of this gene instinctively know every weak point of any enemy they face and have the ability to predict where the enemy will move next with a very low accuracy rate, making it significantly easier to slay their enemies.\n\nAlite's note: Predictive ability doesn't really exist or do anything, it's just some fluff text that I use to be able to claim this gene makes complete sense.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodSlayer</iconPath>
         <displayOrderInCategory>11</displayOrderInCategory>
         <biostatCpx>3</biostatCpx>
@@ -162,7 +159,7 @@
     <GeneDef ParentName="EBSG_SlayerBase">
         <defName>EBSG_UnbelievablyGoodSlayer</defName>
         <label>unbelievably good slayer</label>
-        <description>Carriers of this gene instinctively know every weak point of any enemy they face and the ability to predict where the enemy will move next with a low accuracy rate, making it significantly easier to slay their enemies.\n\nAlite's note: Predictive ability doesn't really exist or do anything, it's just some fluff text that I use to be able to claim this gene makes complete sense.</description>
+        <description>Carriers of this gene instinctively know every weak point of any enemy they face and have the ability to predict where the enemy will move next with a low accuracy rate, making it significantly easier to slay their enemies.\n\nAlite's note: Predictive ability doesn't really exist or do anything, it's just some fluff text that I use to be able to claim this gene makes complete sense.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodSlayer</iconPath>
         <displayOrderInCategory>12</displayOrderInCategory>
         <biostatCpx>3</biostatCpx>
