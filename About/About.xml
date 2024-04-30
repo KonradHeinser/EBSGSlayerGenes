@@ -31,13 +31,19 @@
     <description>
 Expanded Biotech Style Genes(EBSG) is the step beyond [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870]More Biotech Style Genes[/url]. Where that series sought to expand ranges that already exist, this series seeks to add ranges that should exist. You get gene ranges that alter sleep fall rate, but why not a range for changing the rate it recovers? If you can have fire resistance genes, why not have genes to resist other types of damage like frostbite and acid?
 
-This mod adds 52 new options for how effectively a xenotype can kill things, 12 that impact all outgoing damage and 40 that impact their damage against specific targets like animals, insects, humans, and (if you have Anomaly) entities.
+This mod adds 52 new options for how effectively a xenotype can kill things, 12 that impact all outgoing damage and 40 that impact their damage against specific targets like animals, insects, mechanoids, humans, and (if you have Anomaly) entities.
 
-For the universal outgoing damage genes, the go up by 5% for each metabolic loss, and 10% for each metabolic gain. For the specialized damage genes, they increase by 20% for each point of metabolic loss, and decrease by 25% for each point of metabolic gain.
+For the universal outgoing damage genes, the go up by 5% for each metabolic loss, and 10% for each metabolic gain. For the specialized damage genes, they increase by 15% for each point of metabolic loss, and decrease by 20% for each point of metabolic gain.
 
-For those wondering why the penalties are more severe on the metabolic increase genes than the bonuses on the losses, it is because the penalties are more easy to counter through the use of weapons with a low damage and high attack speed. In contrast, the bonuses are much more noticeable with attacks that have a higher base damage.
+[url=https://steamcommunity.com/id/Sovereign484854/myworkshopfiles/?appid=294100]Sovereign helped me with art stuff by not letting me near said art stuff. You can find check out his xenotype mods here![/url]
 
-If your wondering if this is compatible with CE, I have no clue. I assume so with how I coded it, but CE may change the damage calculation process in ways that I am not presently aware of.
+For those wondering why the penalties are more severe on the metabolic increase genes than the bonuses on the losses, it is because the penalties are more easy to counter through the use of weapons with a low damage and high attack speed. In contrast, the bonuses are much more noticeable with attacks that have a higher base damage like sniper rifles. At the higher ends of factors and weapon damages, the carrier can start destroying more than just fingers and toes with a single attack.
+
+If you're wondering if this is compatible with CE, I have no clue. I assume so with how I coded it, but CE may change the damage calculation process in ways that I am not presently aware of.
+
+If you're wondering why I used the word slayer instead of killer, it's because "killer genes" sounded too much like it was just a bunch of ways to help pawns kill other humans rather than kill a variety of things. I felt like slayer genes makes it a bit less open to that interpretation.
+
+For those wondering why I keep starting these with something about you wondering instead of just making it a FAQ, 
 
 Included in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3020821838]Expanded Biotech Style Genes - All in One[/url].
 
@@ -47,7 +53,7 @@ Included in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=30208218
 
 [url=https://github.com/KonradHeinser/EBSGSlayerGenes][img]https://i.imgur.com/kTkpTOE.png[/img][/url]
 [url=https://ko-fi.com/alite56114][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
+
+The wonderful wonder of wondering about wonders
   </description>
 </ModMetaData>
-
-<!--Original textures for gene icons are available on https://game-icons.net-->
