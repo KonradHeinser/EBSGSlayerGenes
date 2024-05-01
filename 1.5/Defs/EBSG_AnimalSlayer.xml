@@ -12,7 +12,7 @@
         <label>abysmal animal slayer</label>
         <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to animal targets.</description>
         <iconPath>EBSG/Gene_ExtremelyBadAnimalSlayer</iconPath>
-        <displayOrderInCategory>201</displayOrderInCategory>
+        <displayOrderInCategory>301</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
         <biostatMet>4</biostatMet>
         <statFactors>
@@ -25,7 +25,7 @@
         <label>extremely bad animal slayer</label>
         <description>Carriers of this gene have significant difficulty killing animals, either because of a special wiring in their brains telling them to not take the lives of animals, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_ExtremelyBadAnimalSlayer</iconPath>
-        <displayOrderInCategory>202</displayOrderInCategory>
+        <displayOrderInCategory>302</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>3</biostatMet>
         <statFactors>
@@ -38,7 +38,7 @@
         <label>very bad animal slayer</label>
         <description>Carriers of this gene have major issues when trying to kill animals, either because of a special wiring in their brains telling them to not take the lives of animals, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_BadAnimalSlayer</iconPath>
-        <displayOrderInCategory>203</displayOrderInCategory>
+        <displayOrderInCategory>303</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>2</biostatMet>
         <statFactors>
@@ -51,7 +51,7 @@
         <label>bad animal slayer</label>
         <description>Carriers of this gene have issues when trying to kill animals, either because of a special wiring in their brains telling them to not take the lives of animals, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_BadAnimalSlayer</iconPath>
-        <displayOrderInCategory>204</displayOrderInCategory>
+        <displayOrderInCategory>304</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>1</biostatMet>
         <statFactors>
@@ -64,7 +64,7 @@
         <label>somewhat good animal slayer</label>
         <description>Carriers of this gene instinctively know some of the weak points of any animal they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodAnimalSlayer</iconPath>
-        <displayOrderInCategory>205</displayOrderInCategory>
+        <displayOrderInCategory>305</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>-1</biostatMet>
         <statFactors>
@@ -77,7 +77,7 @@
         <label>good animal slayer</label>
         <description>Carriers of this gene instinctively know a lot of the weak points of any animal they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodAnimalSlayer</iconPath>
-        <displayOrderInCategory>206</displayOrderInCategory>
+        <displayOrderInCategory>306</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>-2</biostatMet>
         <statFactors>
@@ -90,7 +90,7 @@
         <label>very good animal slayer</label>
         <description>Carriers of this gene instinctively know most of the weak points of any animal they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodAnimalSlayer</iconPath>
-        <displayOrderInCategory>207</displayOrderInCategory>
+        <displayOrderInCategory>307</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
         <biostatMet>-3</biostatMet>
         <statFactors>
@@ -103,7 +103,7 @@
         <label>extremely good animal slayer</label>
         <description>Carriers of this gene instinctively know every weak point of any animal they fight, making it significantly easier to kill them.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodAnimalSlayer</iconPath>
-        <displayOrderInCategory>208</displayOrderInCategory>
+        <displayOrderInCategory>308</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
         <biostatMet>-4</biostatMet>
         <statFactors>
@@ -116,7 +116,7 @@
         <label>unbelievably good animal slayer</label>
         <description>Carriers of this gene instinctively know every weak point of any animal they fight and have the ability to predict where the animal will move next with a low accuracy rate, making it significantly easier to kill them.\n\nAlite's note: Predictive ability doesn't really exist or do anything, it's just some fluff text that I use to be able to claim this gene makes complete sense.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodAnimalSlayer</iconPath>
-        <displayOrderInCategory>209</displayOrderInCategory>
+        <displayOrderInCategory>309</displayOrderInCategory>
         <biostatCpx>3</biostatCpx>
         <biostatMet>-5</biostatMet>
         <statFactors>

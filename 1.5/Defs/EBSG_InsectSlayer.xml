@@ -12,7 +12,7 @@
         <label>abysmal insect slayer</label>
         <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to insect targets.</description>
         <iconPath>EBSG/Gene_ExtremelyBadInsectSlayer</iconPath>
-        <displayOrderInCategory>301</displayOrderInCategory>
+        <displayOrderInCategory>401</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
         <biostatMet>4</biostatMet>
         <statFactors>
@@ -25,7 +25,7 @@
         <label>extremely bad insect slayer</label>
         <description>Carriers of this gene have significant difficulty killing other insects, either because of a special wiring in their brains to not take the lives of insectoids, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_ExtremelyBadInsectSlayer</iconPath>
-        <displayOrderInCategory>302</displayOrderInCategory>
+        <displayOrderInCategory>402</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>3</biostatMet>
         <statFactors>
@@ -38,7 +38,7 @@
         <label>very bad insect slayer</label>
         <description>Carriers of this gene have major issues when trying to kill other insects, either because of a special wiring in their brains to not take the lives of insectoids, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_BadInsectSlayer</iconPath>
-        <displayOrderInCategory>303</displayOrderInCategory>
+        <displayOrderInCategory>403</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>2</biostatMet>
         <statFactors>
@@ -51,7 +51,7 @@
         <label>bad insect slayer</label>
         <description>Carriers of this gene have issues when trying to kill other insects, either because of a special wiring in their brains to not take the lives of insectoids, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_BadInsectSlayer</iconPath>
-        <displayOrderInCategory>304</displayOrderInCategory>
+        <displayOrderInCategory>404</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>1</biostatMet>
         <statFactors>
@@ -64,7 +64,7 @@
         <label>somewhat good insect slayer</label>
         <description>Carriers of this gene instinctively know some of the weak points of any insectoid they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodInsectSlayer</iconPath>
-        <displayOrderInCategory>305</displayOrderInCategory>
+        <displayOrderInCategory>405</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>-1</biostatMet>
         <statFactors>
@@ -77,7 +77,7 @@
         <label>good insect slayer</label>
         <description>Carriers of this gene instinctively know a lot of the weak points of any insectoid they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodInsectSlayer</iconPath>
-        <displayOrderInCategory>306</displayOrderInCategory>
+        <displayOrderInCategory>406</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>-2</biostatMet>
         <statFactors>
@@ -90,7 +90,7 @@
         <label>very good insect slayer</label>
         <description>Carriers of this gene instinctively know most of the weak points of any insectoid they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodInsectSlayer</iconPath>
-        <displayOrderInCategory>307</displayOrderInCategory>
+        <displayOrderInCategory>407</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
         <biostatMet>-3</biostatMet>
         <statFactors>
@@ -103,7 +103,7 @@
         <label>extremely good insect slayer</label>
         <description>Carriers of this gene instinctively know every weak point of any insectoid they fight, making it significantly easier to kill them.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodInsectSlayer</iconPath>
-        <displayOrderInCategory>308</displayOrderInCategory>
+        <displayOrderInCategory>408</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
         <biostatMet>-4</biostatMet>
         <statFactors>
@@ -116,7 +116,7 @@
         <label>unbelievably good insect slayer</label>
         <description>Carriers of this gene instinctively know every weak point of any insectoid they fight and have the ability to predict where the insect will move next with a low accuracy rate, making it significantly easier to kill them.\n\nAlite's note: Predictive ability doesn't really exist or do anything, it's just some fluff text that I use to be able to claim this gene makes complete sense.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodInsectSlayer</iconPath>
-        <displayOrderInCategory>309</displayOrderInCategory>
+        <displayOrderInCategory>409</displayOrderInCategory>
         <biostatCpx>3</biostatCpx>
         <biostatMet>-5</biostatMet>
         <statFactors>

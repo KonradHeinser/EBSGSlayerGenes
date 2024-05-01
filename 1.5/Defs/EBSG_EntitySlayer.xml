@@ -12,7 +12,7 @@
         <label>abysmal entity slayer</label>
         <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to entity targets.</description>
         <iconPath>EBSG/Gene_ExtremelyBadEntitySlayer</iconPath>
-        <displayOrderInCategory>401</displayOrderInCategory>
+        <displayOrderInCategory>501</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
         <biostatMet>4</biostatMet>
         <statFactors>
@@ -25,7 +25,7 @@
         <label>extremely bad entity slayer</label>
         <description>Carriers of this gene have significant difficulty killing other entities, either because of a special wiring in their brains to not take the lives of entities, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_ExtremelyBadEntitySlayer</iconPath>
-        <displayOrderInCategory>402</displayOrderInCategory>
+        <displayOrderInCategory>502</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>3</biostatMet>
         <statFactors>
@@ -38,7 +38,7 @@
         <label>very bad entity slayer</label>
         <description>Carriers of this gene have major issues when trying to kill other entities, either because of a special wiring in their brains to not take the lives of entities, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_BadEntitySlayer</iconPath>
-        <displayOrderInCategory>403</displayOrderInCategory>
+        <displayOrderInCategory>503</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>2</biostatMet>
         <statFactors>
@@ -51,7 +51,7 @@
         <label>bad entity slayer</label>
         <description>Carriers of this gene have issues when trying to kill other entities, either because of a special wiring in their brains to not take the lives of entities, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_BadEntitySlayer</iconPath>
-        <displayOrderInCategory>404</displayOrderInCategory>
+        <displayOrderInCategory>504</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>1</biostatMet>
         <statFactors>
@@ -64,7 +64,7 @@
         <label>somewhat good entity slayer</label>
         <description>Carriers of this gene instinctively know some of the weak points of any entity they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodEntitySlayer</iconPath>
-        <displayOrderInCategory>405</displayOrderInCategory>
+        <displayOrderInCategory>505</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>-1</biostatMet>
         <statFactors>
@@ -77,7 +77,7 @@
         <label>good entity slayer</label>
         <description>Carriers of this gene instinctively know a lot of the weak points of any entity they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodEntitySlayer</iconPath>
-        <displayOrderInCategory>406</displayOrderInCategory>
+        <displayOrderInCategory>506</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
         <biostatMet>-2</biostatMet>
         <statFactors>
@@ -90,7 +90,7 @@
         <label>very good entity slayer</label>
         <description>Carriers of this gene instinctively know most of the weak points of any entity they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodEntitySlayer</iconPath>
-        <displayOrderInCategory>407</displayOrderInCategory>
+        <displayOrderInCategory>507</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
         <biostatMet>-3</biostatMet>
         <statFactors>
@@ -103,7 +103,7 @@
         <label>extremely good entity slayer</label>
         <description>Carriers of this gene instinctively know every weak point of any entity they fight, making it significantly easier to kill them.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodEntitySlayer</iconPath>
-        <displayOrderInCategory>408</displayOrderInCategory>
+        <displayOrderInCategory>508</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
         <biostatMet>-4</biostatMet>
         <statFactors>
@@ -116,7 +116,7 @@
         <label>unbelievably good entity slayer</label>
         <description>Carriers of this gene instinctively know every weak point of any entity they fight and have the ability to predict where the entity will move next with a low accuracy rate, making it significantly easier to kill them.\n\nAlite's note: Predictive ability doesn't really exist or do anything, it's just some fluff text that I use to be able to claim this gene makes complete sense.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodEntitySlayer</iconPath>
-        <displayOrderInCategory>409</displayOrderInCategory>
+        <displayOrderInCategory>509</displayOrderInCategory>
         <biostatCpx>3</biostatCpx>
         <biostatMet>-5</biostatMet>
         <statFactors>
