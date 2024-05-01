@@ -23,7 +23,7 @@
     <GeneDef ParentName="EBSG_AnimalSlayerBase">
         <defName>EBSG_ExtremelyBadAnimalSlayer</defName>
         <label>extremely bad animal slayer</label>
-        <description>Carriers of this gene have significant difficulty killing other animals, either because of a special wiring in their brains to not take lives, even artificial ones, or just general physical incapability.</description>
+        <description>Carriers of this gene have significant difficulty killing animals, either because of a special wiring in their brains telling them to not take the lives of animals, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_ExtremelyBadAnimalSlayer</iconPath>
         <displayOrderInCategory>202</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
@@ -36,7 +36,7 @@
     <GeneDef ParentName="EBSG_AnimalSlayerBase">
         <defName>EBSG_VeryBadAnimalSlayer</defName>
         <label>very bad animal slayer</label>
-        <description>Carriers of this gene have major issues when trying to kill other animals, either because of a special wiring in their brains to not take lives, even artificial ones, or just general physical incapability.</description>
+        <description>Carriers of this gene have major issues when trying to kill animals, either because of a special wiring in their brains telling them to not take the lives of animals, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_BadAnimalSlayer</iconPath>
         <displayOrderInCategory>203</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
@@ -49,7 +49,7 @@
     <GeneDef ParentName="EBSG_AnimalSlayerBase">
         <defName>EBSG_BadAnimalSlayer</defName>
         <label>bad animal slayer</label>
-        <description>Carriers of this gene have issues when trying to kill other animals, either because of a special wiring in their brains to not take lives, even artificial ones, or just general physical incapability.</description>
+        <description>Carriers of this gene have issues when trying to kill animals, either because of a special wiring in their brains telling them to not take the lives of animals, or just general inexplicable physical incapability not yet explained by science.</description>
         <iconPath>EBSG/Gene_BadAnimalSlayer</iconPath>
         <displayOrderInCategory>204</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
@@ -62,7 +62,7 @@
     <GeneDef ParentName="EBSG_AnimalSlayerBase">
         <defName>EBSG_SomewhatGoodAnimalSlayer</defName>
         <label>somewhat good animal slayer</label>
-        <description>Carriers of this gene instinctively know some of the weak points of any animal they fight, making it easier to slay their enemies.</description>
+        <description>Carriers of this gene instinctively know some of the weak points of any animal they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodAnimalSlayer</iconPath>
         <displayOrderInCategory>205</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
@@ -75,7 +75,7 @@
     <GeneDef ParentName="EBSG_AnimalSlayerBase">
         <defName>EBSG_GoodAnimalSlayer</defName>
         <label>good animal slayer</label>
-        <description>Carriers of this gene instinctively know a lot of the weak points of any animal they fight, making it easier to slay their enemies.</description>
+        <description>Carriers of this gene instinctively know a lot of the weak points of any animal they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodAnimalSlayer</iconPath>
         <displayOrderInCategory>206</displayOrderInCategory>
         <biostatCpx>1</biostatCpx>
@@ -88,7 +88,7 @@
     <GeneDef ParentName="EBSG_AnimalSlayerBase">
         <defName>EBSG_VeryGoodAnimalSlayer</defName>
         <label>very good animal slayer</label>
-        <description>Carriers of this gene instinctively know most of the weak points of any animal they fight, making it easier to slay their enemies.</description>
+        <description>Carriers of this gene instinctively know most of the weak points of any animal they fight, making it easier to kill them.</description>
         <iconPath>EBSG/Gene_GoodAnimalSlayer</iconPath>
         <displayOrderInCategory>207</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
@@ -101,7 +101,7 @@
     <GeneDef ParentName="EBSG_AnimalSlayerBase">
         <defName>EBSG_ExtremelyGoodAnimalSlayer</defName>
         <label>extremely good animal slayer</label>
-        <description>Carriers of this gene instinctively know every weak point of any animal they fight, making it significantly easier to slay their enemies.</description>
+        <description>Carriers of this gene instinctively know every weak point of any animal they fight, making it significantly easier to kill them.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodAnimalSlayer</iconPath>
         <displayOrderInCategory>208</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
@@ -114,7 +114,7 @@
     <GeneDef ParentName="EBSG_AnimalSlayerBase">
         <defName>EBSG_UnbelievablyGoodAnimalSlayer</defName>
         <label>unbelievably good animal slayer</label>
-        <description>Carriers of this gene instinctively know every weak point of any animal they fight and have the ability to predict where the animal will move next with a low accuracy rate, making it significantly easier to slay their enemies.\n\nAlite's note: Predictive ability doesn't really exist or do anything, it's just some fluff text that I use to be able to claim this gene makes complete sense.</description>
+        <description>Carriers of this gene instinctively know every weak point of any animal they fight and have the ability to predict where the animal will move next with a low accuracy rate, making it significantly easier to kill them.\n\nAlite's note: Predictive ability doesn't really exist or do anything, it's just some fluff text that I use to be able to claim this gene makes complete sense.</description>
         <iconPath>EBSG/Gene_ExtremelyGoodAnimalSlayer</iconPath>
         <displayOrderInCategory>209</displayOrderInCategory>
         <biostatCpx>3</biostatCpx>
