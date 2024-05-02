@@ -10,7 +10,7 @@
     <GeneDef ParentName="EBSG_InsectSlayerBase">
         <defName>EBSG_AbysmalInsectSlayer</defName>
         <label>abysmal insect slayer</label>
-        <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to insect targets.</description>
+        <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to insectoids.</description>
         <iconPath>EBSG/Gene_ExtremelyBadInsectSlayer</iconPath>
         <displayOrderInCategory>401</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>

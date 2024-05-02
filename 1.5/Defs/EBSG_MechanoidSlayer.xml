@@ -10,7 +10,7 @@
     <GeneDef ParentName="EBSG_MechanoidSlayerBase">
         <defName>EBSG_AbysmalMechanoidSlayer</defName>
         <label>abysmal mechanoid slayer</label>
-        <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to mechanoid targets.</description>
+        <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to mechanoids.</description>
         <iconPath>EBSG/Gene_ExtremelyBadMechanoidSlayer</iconPath>
         <displayOrderInCategory>201</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>

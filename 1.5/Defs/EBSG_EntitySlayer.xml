@@ -10,7 +10,7 @@
     <GeneDef ParentName="EBSG_EntitySlayerBase" MayRequire="Ludeon.Rimworld.Anomaly">
         <defName>EBSG_AbysmalEntitySlayer</defName>
         <label>abysmal entity slayer</label>
-        <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to entity targets.</description>
+        <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to entities.</description>
         <iconPath>EBSG/Gene_ExtremelyBadEntitySlayer</iconPath>
         <displayOrderInCategory>501</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>

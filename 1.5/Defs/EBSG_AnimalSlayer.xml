@@ -10,7 +10,7 @@
     <GeneDef ParentName="EBSG_AnimalSlayerBase">
         <defName>EBSG_AbysmalAnimalSlayer</defName>
         <label>abysmal animal slayer</label>
-        <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to animal targets.</description>
+        <description>Due to some weird genetic manipulation of the carrier's brain, they find themselves almost incapable of dealing any notable damage to animals.</description>
         <iconPath>EBSG/Gene_ExtremelyBadAnimalSlayer</iconPath>
         <displayOrderInCategory>301</displayOrderInCategory>
         <biostatCpx>2</biostatCpx>
